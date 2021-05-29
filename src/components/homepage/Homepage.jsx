@@ -1,5 +1,6 @@
 //fuctional component because don't need lifecycle methods or need to store any state
 import React from "react";
+import './homePage-styles.scss'
 
 const HomePage = () => (
 	<div className="homepage">
