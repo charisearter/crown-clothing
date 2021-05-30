@@ -1,4 +1,5 @@
 import { Switch, Route } from "react-router";
+
 import "./App.scss";
 
 import SignInAndSignUpPage from "./pages/signIn-signUp/SignIn-SignUp.jsx";
